@@ -1,15 +1,29 @@
-## Tugas UAS Pemograman Web
-Anggota Kelompok:
-- Fadli Ramadhan      (312110538)
-- Irfan Fadlurrahman  (312110465)
-- Alvina Damayanti    (312110125)
-- Arjun Syah          (312110102)
-- Denis Alviansyah    (312110427)
-- Maftuhin Amanullah  (312110610)
+## Final Project: Ujian Akhir Semester
 
-# Penyewaan Villa
+```bash
+Kelompok 6      : - Fadli Ramadhan      (312110538)
+                  - Irfan Fadlurrahman  (312110465)
+                  - Alvina Damayanti    (312110125)
+                  - Arjun Syah          (312110102)
+                  - Denis Alviansyah    (312110427)
+                  - Maftuhin Amanullah  (312110610)
+Tema Project   : Database Penyewaan Penginapan Villa
+Kelas           : TI. 21. A3
+Mata Kuliah     : Pemrograman Web 2
+Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
+```
 
-Ini adalah proyek penyewaan villa yang bertujuan untuk menyediakan informasi dan pemesanan villa-villa mewah bagi para pelanggan. Proyek ini akan memberikan deskripsi singkat tentang proyek penyewaan villa, fitur-fitur yang ditawarkan, dan langkah-langkah untuk melakukan pemesanan.
+## Demo Aplikasi dan Domain
+
+1. Demo aplikasi pada link youtube:
+
+  https://youtu.be/6p45o5LbH2E
+
+2. Domain aplikasi, berikut ini:
+
+## Logo Aplikasi Penyewaan Penginapan Villa
+
+![img1](img/Logo.png)
 
 ## Fitur
 
@@ -40,6 +54,74 @@ Jika Anda memiliki pertanyaan atau membutuhkan dukungan tambahan, silakan hubung
 
 Kami dengan senang hati akan membantu Anda dengan pertanyaan atau permintaan Anda secepat mungkin.
 
+## Tampilan Aplikasi Penyewaan Penginapan Villa dari sisi Client
+
+1. Tampilan Home
+
+![img2](img/homeclient.png)
+
+2. Tampilan Room List Villa
+
+![img3](img/villaclient.png)
+
+3. Tampilan View Room
+
+![img4](img/detailvillaclient.png)
+
+4. Tampilan Booking Villa untuk client
+
+![img5](img/pembookingan.png)
+
+6. Tampilan setelah client melakukan pembookingan villa
+
+![img6](img/bookedpacages.png)
+
+7. Tampilan Manage Account Client
+
+![img7](img/pengaturanakunclient.png)
+
+8. Tampilan About (Tentang Kami)
+
+![img8](img/aboutclient.png)
+
+9. Tampilan Contact Us Client untuk menghubungi pihak pengelola villa
+
+![img9](img/contactclient.png)
+
+## Tampilan Aplikasi Penyewaan Penginapan Villa dari sisi Admin
+
+> Untuk Admin bisa masuk pada Aplikasi Penyewaan Villa ini Admin harus Login dengan menggunakan Username 'admin' dan Password 'admin123'
+
+1. Tampilan Login untuk Admin
+
+![img10](img/loginadmin.png)
+
+2. Tampilan Home Admin
+
+![img11](img/homeadmin.png)
+
+3. Tampilan Akomodasi
+
+![img12](img/akomodasi.png)
+
+4. Tampilan Room Villa yang tersedia
+
+![img13](img/listvillaadmin.png)
+
+5. Tampilan Booking List villa pada Admin
+
+![img14](img/bookinglistadmin.png)
+
+6. Tampilan Pertanyaan Pelanggan pada Admin
+
+![img15](img/pertanyaanpelanggan.png)
+
+7. Tampilan Pengaturan pada Admin
+
+![img16](img/pengaturanadmin.png)
+
 ## Catatan
 
 Pastikan Anda membaca syarat dan ketentuan pemesanan sebelum melakukan pemesanan. Harap dicatat bahwa pemesanan villa dapat tunduk pada kebijakan pembatalan tertentu, dan pembayaran mungkin diperlukan untuk mengonfirmasi pemesanan Anda. Silakan merujuk ke [situs web penyewaan villa](http://www.penyewaanvilla.com) untuk informasi lebih lanjut.
+
+Terima Kasih
