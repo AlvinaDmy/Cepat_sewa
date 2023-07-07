@@ -21,6 +21,8 @@ Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
 2. Domain aplikasi, berikut ini:
 
+   https://cefatsewavillaupb.000webhostapp.com/
+
 ## Logo Aplikasi Penyewaan Penginapan Villa
 
 ![img1](img/Logo.png)
@@ -53,72 +55,6 @@ Jika Anda memiliki pertanyaan atau membutuhkan dukungan tambahan, silakan hubung
 - Alamat: Jalan Villa Indah No. 123, Kota Semarak, Indonesia
 
 Kami dengan senang hati akan membantu Anda dengan pertanyaan atau permintaan Anda secepat mungkin.
-
-## Tampilan Aplikasi Penyewaan Penginapan Villa dari sisi Client
-
-1. Tampilan Home
-
-![img2](img/homeclient.png)
-
-2. Tampilan Room List Villa
-
-![img3](img/villaclient.png)
-
-3. Tampilan View Room
-
-![img4](img/detailvillaclient.png)
-
-4. Tampilan Booking Villa untuk client
-
-![img5](img/pembookingan.png)
-
-6. Tampilan setelah client melakukan pembookingan villa
-
-![img6](img/bookedpacages.png)
-
-7. Tampilan Manage Account Client
-
-![img7](img/pengaturanakunclient.png)
-
-8. Tampilan About (Tentang Kami)
-
-![img8](img/aboutclient.png)
-
-9. Tampilan Contact Us Client untuk menghubungi pihak pengelola villa
-
-![img9](img/contactclient.png)
-
-## Tampilan Aplikasi Penyewaan Penginapan Villa dari sisi Admin
-
-> Untuk Admin bisa masuk pada Aplikasi Penyewaan Villa ini Admin harus Login dengan menggunakan Username 'admin' dan Password 'admin123'
-
-1. Tampilan Login untuk Admin
-
-![img10](img/loginadmin.png)
-
-2. Tampilan Home Admin
-
-![img11](img/homeadmin.png)
-
-3. Tampilan Akomodasi
-
-![img12](img/akomodasi.png)
-
-4. Tampilan Room Villa yang tersedia
-
-![img13](img/listvillaadmin.png)
-
-5. Tampilan Booking List villa pada Admin
-
-![img14](img/bookinglistadmin.png)
-
-6. Tampilan Pertanyaan Pelanggan pada Admin
-
-![img15](img/pertanyaanpelanggan.png)
-
-7. Tampilan Pengaturan pada Admin
-
-![img16](img/pengaturanadmin.png)
 
 ## Catatan
 
